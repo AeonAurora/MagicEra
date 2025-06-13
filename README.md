@@ -2,10 +2,10 @@
 The modpack version is **0.1** now.
 #### Author's words
 > Do You like ***Thaumcraft*** Mod? I like this mod very much. And I want to create a modpack which include this mod for myself. If you have some problems of the modpack, please tell me. Have a good time.
-**The modpack is developing. Please ready for problems, if you play it!**
+**The modpack is developing. Please get ready for facing  problems, if you play it!**
 
 #### Modpack Description
-The modpack is a magic modpack. It use ***Thaumcraft*** as the core and include some funny mods such as ***Tinkers' Construct***.
+The modpack is a magic-themed modpack. It features ***Thaumcraft*** as the centerpiece and include some fun mods such as ***Tinkers' Construct***.
 
 #### Mod list
 There are **36** mods in total. 
