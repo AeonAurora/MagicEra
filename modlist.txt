@@ -1,0 +1,42 @@
+Name | Mod Version
+
+Mixinbooter | 10.6
+ConfigAnyTime | 3.0
+B.A.S.E | 3.14.0
+LibNine | 1.2.1
+地幔 Mantle | 1.3.3.55
+饰品栏 Baubles | 1.5.2
+
+Vintagefix | 0.5.6
+Censoredasm | 5.28
+Nothirium | 0.4.7
+Naughthirium | 2.3.0
+StellarCore | 1.5.22
+属性修复 AttributeFix | 1.0.12
+合成冲突消除 Yet Another Recipe Conflict Fixer | 0.14
+
+HEI物品管理器 HadEnoughItems | 4.27.3
+ThaumicJEI | 1.7.0
+物品丢入流体 Just Enough Throwing In Fluids | 
+Hwyla | 1.8.26-B41
+WailaHarvestability | 1.1.12
+苹果皮 AppleSkin | 1.0.14
+Tinker's JEI | 1.2
+
+CraftTweaker2 | 4.1.20.703
+ContentTweaker | 4.10.0
+CrT集成 CraftTweaker Integration | 1.8.0
+Zenutils | 1.22.2
+
+神秘时代 Thaumcraft | 6.1.BETA26
+神秘时代修复 ThaumcraftFix | 1.1.4
+神秘进阶 ThaumicAugmentation | 2.1.14
+神秘基础学 Thaumic Bases | 3.6.020.1
+神秘工匠非官方版 Thaumic Tinkerer Unofficial | 5.9.5
+Isorropia kedition | 1.1.2
+新血腥启示 New Crimson Revelations | 1.3.3
+
+匠魂 Tinkers' Construct | 2.13.0.183
+匠魂补充 Tinkers' Complement | 0.4.3
+匠魂进化 Tinkers' Evolution | 1.0.49
+匠魂合金附加二次重栽版 TAIGA Replant Replant | 1.0.0

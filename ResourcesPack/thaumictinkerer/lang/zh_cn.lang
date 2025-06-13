@@ -1,0 +1,17 @@
+item.infused_seeds.name=注魔种子
+item.thaumictinkerer:infused_aer_fruit.name=注魔谷物
+item.thaumictinkerer:infused_terra_fruit.name=注魔谷物
+item.thaumictinkerer:infused_ignis_fruit.name=注魔谷物
+item.thaumictinkerer:infused_aqua_fruit.name=注魔谷物
+
+thaumictinkerer.research.infused_seeds.title=注魔作物
+thaumictinkerer.research.infused_seeds.0=谁说蜜蜂了？根本没人提蜜蜂。
+thaumictinkerer.research.infused_seeds.1=你能通过将普通种子与魔力水晶碎片融合，创造出新型魔法作物。这些种子能产出丰富多样的物品——每种要素对应不同产物。<PAGE>你只能制作基本种子，其他种子必须通过培育获得。当完全成熟的作物被收获时，它会在土壤中留下魔法残留物。如果在含有高浓度同源残渣的土壤中种植作物，两要素将融合生成新要素种子。<PAGE> 也可通过育种将要素倾向培育到作物以强化特性。Terra会增加留在土壤中的魔法残留物。Ignis有助于生成新要素。Ordo会增加植物的产量。Perditio会增加掉落的种子数量。Aer能让植物更容易获得异种倾向。单株植物最多只能拥有 50 种要素倾向值。<PAGE>有两种方法可以赋予作物基本倾向。如果将作物种植在所需要素的作物旁边，它们偶尔会吸收基本倾向。然而，通过这种方式，植物在单一方面上不能获得超过5点的倾向值。<PAGE>作物还会从附近的作物中吸取倾向。一种作物会从相邻且拥有相同或更多倾向值的作物中吸取倾向值。<BR>某些作物会产出特殊的谷物，这些谷物可以制成药剂。<BR>注入了Terra要素的药剂会在攻击你的怪物之间召唤出屏障。<BR>注入了Ignis要素的药剂会将你的敌人困在一个球形火焰之中。<BR>注入了Aer要素的药剂会将你的敌人送上天空。<BR>注入了Aqua要素的药剂会冷却周围的岩浆。
+
+thaumictinkerer.research.CELESTIAL_TELEPORT.title=核心效果:仙域召唤
+thaumictinkerer.research.CELESTIAL_TELEPORT.0=对仙域之门的研究已取得突破性进展。但每次传送都需返回传送门的繁琐流程令人疲惫不堪。<BR>为此，我开始探究法术与仙域珍珠在门际链接中的关联机制。
+thaumictinkerer.research.CELESTIAL_TELEPORT.1=成功了！我已将仙域珍珠的精华解构为法术符式。从此无需亲临传送门——使用法术即可瞬间传送。<BR>不过，我仍得在背包里放一颗绑定的仙域珍珠，才能选择传送的目的地。
+
+thaumictinkerer.research.ENDER_RIFT.title=核心效果:末影裂痕
+thaumictinkerer.research.ENDER_RIFT.0=深入研究末影箱与裂隙核心法术的关系后，我发现二者均接入同一个次元间隙——那是存在于世界之间的虚空领域。此关联性值得深究，其应用潜力已令人振奋。
+thaumictinkerer.research.ENDER_RIFT.1=猜测被证实了！末影箱与裂隙核心效果本质同源，仅表现形式经调整后略有差异。通过优化核心效果，我创造了无需实体末影箱即可直接访问个人存储空间的核心效果。<BR>更惊人的是：我如今能访问任意他人的末影箱。钻石？休想再藏匿！

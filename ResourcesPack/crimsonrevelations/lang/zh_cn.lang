@@ -1,0 +1,29 @@
+itemGroup.CrimsonRevelationsTab=新血腥启示
+
+# Items
+item.crimsonrevelations.mana_bean.name=魔豆
+item.crimsonrevelations.verdant_ring.name=翠心之环
+item.crimsonrevelations.nutrition_ring.name=滋养指环
+item.crimsonrevelations.purifying_shovel.name=净化铲
+item.crimsonrevelations.distortion_pickaxe.name=畸变镐
+
+# Research
+crimsonrevelations.research.verdant_bands.title=翠心之环
+crimsonrevelations.research.verdant_bands.stage.0=得益于我之前在护盾符文饰品上的成功经验，我已经掌握了如何在奥术工作台上将任意类型的翠心指环转化为其对应的翠心之环形态。<BR>这使我能够同时拥有两种注魔附魔——如果我想这么做的话。而且，如果我改变主意，我也可以用同样的方法自由地将翠心之环变回翠心指环。我也能像制作护符一样正常地制作它们。<PAGE>正如我之前对护符的说明，翠心之环能以消耗vis为代价，清除我体内所有的毒素或类似的不良状态，但它无法治愈实际的伤口。<BR>有两种特殊的魔法可以应用于翠心之环以提高其功能，尽管我只能将其中一种魔法应用于给定的翠心之环。<LINE><PAGE>§l再生§r<DIV>此灌注附魔使得翠心之环能够为佩戴者再生生命值<PAGE>§l续航§r<DIV>此灌注附魔使得翠心之环能够缓慢地为佩戴者提供养分与维生支持。这包括供给可呼吸的空气。
+
+# Research: Forbidden
+crimsonrevelations.research.distortion_pickaxe.title=畸变镐
+crimsonrevelations.research.distortion_pickaxe.stage.0=挖掘黑曜石实在是个麻烦事，不幸的是，效率附魔似乎也力不从心了。我需要找到一种更快的方法来破坏这种坚固的方块。<BR>也许我应该观察一下黑曜石的原子结构，或许能从中得出些结果。
+crimsonrevelations.research.distortion_pickaxe.stage.1=我观察了黑曜石原子与一块Vitium魔力水晶内含物质之间的相互作用。这些原子与该物质相互排斥，就像同极磁铁一样！<BR>这给了我一个绝妙的主意，可以打造一种工具，让我挖掘黑曜石的速度远超普通钻石镐。因此，我将这把不同寻常的镐命名为畸变镐！<PAGE>这把镐应该能让我更快地采集坚固的黑曜石或任何高硬度值的材料。不过，它似乎也带来了一个问题：当挖掘泥土、沙子等较软材料时，速度变得和挖掘黑曜石一样慢。
+
+crimsonrevelations.research.nutrition_ring.title=滋养指环
+crimsonrevelations.research.nutrition_ring.stage.0=我应该专注于制作一枚能帮助我减少正常进食量的指环。这样，我就不必在食物耗尽时频繁地去觅食了。<BR>我该从观察我所消耗食物的品质开始。
+crimsonrevelations.research.nutrition_ring.stage.1=终于成功了！我创造了一枚指环，只要佩戴者持续戴着它，就能为摄入的大部分食物增效。<BR>无论食物品质如何，它总是为受影响的食物提供相同的饥饿值和饱和度加成。这对于曲奇或甜菜根这类饱食度较低的食物尤其有用。
+
+crimsonrevelations.research.purifying_shovel.title=净化铲
+crimsonrevelations.research.purifying_shovel.stage.0=我确实低估了咒波的危险性，以及向本地灵气场中释放过多咒波会对环境造成的后果。<BR>咒波的一些明显的物理性质似乎对常规清除方法具有极强的抵抗力。<BR>普通工具对这种奇异物质几乎毫无效果，甚至是我最近创造的元素工具也不行。我需要设法获得一种专门对其有效的特殊工具。
+crimsonrevelations.research.purifying_shovel.stage.1=通过将Auram魔力水晶灌注到一把秘银铲中，我设计出了能有效对付所有种类腐化方块的工具。<BR>如果情况再次发生，我只需右键点击地面，它就能消耗耐久度，在小范围内净化附近的咒波黏浆。
+
+# Research: Fundamentals
+crimsonrevelations.research.mana_pods.title=魔豆株
+crimsonrevelations.research.mana_pods.stage.0=这种奇特的豆荚状植物，只生长在魔法森林的树木上。它们生长极其缓慢，收获时通常只能得到一两颗彩色的豆子。<BR>这些我称之为魔豆的豆子，蕴含着浓缩的要素。它们也可以被消耗，从而为研究提供更多知识，尽管其效果往往有点难以预测。<PAGE>它们可以在魔法森林中，被重新种植在原木顶部。但事实证明，栽培它们既困难又耗时。与其他植物不同，骨粉 对它们似乎也毫无效果。<BR>野生魔豆株通常只产出基础要素，不过据说，将豆子种在已有豆株的旁边，有时会产出蕴含复合要素的豆子。<BR>若能完全掌握种植特定所需要素的正确技术，对我的研究将会大有裨益。
