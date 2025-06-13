@@ -1,5 +1,5 @@
 ### Magic Era
-The modpack version is 0.1 now.
+The modpack version is **0.1** now.
 #### Author's words
 > Do You like ***Thaumcraft*** Mod? I like this mod very much. And I want to create a modpack which include this mod for myself. If you have some problems of the modpack, please tell me. Have a good time.
 **The modpack is developing. Please ready for problems, if you play it!**
@@ -8,7 +8,7 @@ The modpack version is 0.1 now.
 The modpack is a magic modpack. It use ***Thaumcraft*** as the core and include some funny mods such as ***Tinkers' Construct***.
 
 #### Mod list
-There are **9** mods in total. 
+There are **36** mods in total. 
 ##### Library Mod
 | Name | Mod Version | Main Author | Website |
 | ------------ | ------------ | ------------ | ------------ |
