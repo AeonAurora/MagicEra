@@ -1,15 +1,16 @@
-### Magic Era
+## Magic Era
+
 The modpack version is **0.1** now.
-#### Author's words
+### Author's words
 > Do You like ***Thaumcraft*** Mod? I like this mod very much. And I want to create a modpack which include this mod for myself. If you have some problems of the modpack, please tell me. Have a good time.
-**The modpack is developing. Please get ready for facing  problems, if you play it!**
+**The modpack is developing. Please get ready for facing problems, if you play it!**
 
 #### Modpack Description
 The modpack is a magic-themed modpack. It features ***Thaumcraft*** as the centerpiece and include some fun mods such as ***Tinkers' Construct***.
 
-#### Mod list
-There are **36** mods in total. 
-##### Library Mod
+## Mod list
+There are **36** mods in total.
+#### Library Mod
 | Name | Mod Version | Main Author | Website |
 | ------------ | ------------ | ------------ | ------------ |
 | Mixinbooter | 10.6 | Rongmario | https://www.curseforge.com/minecraft/mc-mods/mixin-booter |
@@ -20,7 +21,7 @@ There are **36** mods in total.
 | RenderLib | 1.4.5 | meldexun |https://www.curseforge.com/minecraft/mc-mods/renderlib |
 | Baubles | 1.5.2 | Azanor | https://www.curseforge.com/minecraft/mc-mods/baubles |
 
-##### Performance and Fix Mod
+#### Performance and Fix Mod
 | Name | Mod Version | Main Author | Website |
 | ------------ | ------------ | ------------ | ------------ |
 | Vintagefix | 0.5.6 | embeddedt | https://www.curseforge.com/minecraft/mc-mods/vintagefix |
@@ -31,7 +32,7 @@ There are **36** mods in total.
 | AttributeFix | 1.0.12 | Darkhax | https://www.curseforge.com/minecraft/mc-mods/attributefix |
 | Yet Another Recipe Conflict Fixer | 0.14 | SirOMGitsYOU | https://www.curseforge.com/minecraft/mc-mods/yarcf |
 
-##### Information Mod
+#### Information Mod
 | Name | Mod Version | Main Author | Website |
 | ------------ | ------------ | ------------ | ------------ |
 | Had Enough Items | 4.27.3 | Rongmario | https://www.curseforge.com/minecraft/mc-mods/had-enough-items |
@@ -42,7 +43,7 @@ There are **36** mods in total.
 | Waila Harvestability | 1.1.12 | squeek502 | https://www.curseforge.com/minecraft/mc-mods/waila-harvestability |
 | AppleSkin | 1.0.14 | squeek502 | https://www.curseforge.com/minecraft/mc-mods/appleskin |
 
-##### Modpack Tweaker Mod
+#### Modpack Tweaker Mod
 | Name | Mod Version | Main Author | Website |
 | ------------ | ------------ | ------------ | ------------ |
 | CraftTweaker2 | 4.1.20.703 | Jared | https://www.curseforge.com/minecraft/mc-mods/crafttweaker |
@@ -50,10 +51,10 @@ There are **36** mods in total.
 | CraftTweaker Integration | 1.8.0 | TCreopargh | https://www.curseforge.com/minecraft/mc-mods/crafttweaker-integration |
 | Zenutils | 1.22.2 | youyihj | https://www.curseforge.com/minecraft/mc-mods/zenutil |
 
-#### Large Mod and Addons
+### Large Mod and Addons
 > These are the main content mod of the modpack.
 
-##### Thaumcraft and Addons
+#### Thaumcraft and Addons
 | Name | Mod Version | Main Author | Website |
 | ------------ | ------------ | ------------ | ------------ |
 | Thaumcraft | 6.1.BETA26 | Azanor | https://www.curseforge.com/minecraft/mc-mods/thaumcraft |
@@ -64,7 +65,7 @@ There are **36** mods in total.
 | Thaumic Isorropia - Kedition | 1.1.2 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/thaumic-isorropia-kedition |
 | New Crimson Revelations | 1.3.3 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/new-crimson-revelations |
 
-##### Tinkers' Construct and Addons
+#### Tinkers' Construct and Addons
 | Name | Mod Version | Main Author | Website |
 | ------------ | ------------ | ------------ | ------------ |
 | Tinkers' Construct | 2.13.0.183 | mDiyo | https://www.curseforge.com/minecraft/mc-mods/tinkers-construct |
