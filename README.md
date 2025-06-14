@@ -5,7 +5,7 @@ The modpack version is **0.1** now.
 > Do You like ***Thaumcraft*** Mod? I like this mod very much. And I want to create a modpack which include this mod for myself. If you have some problems of the modpack, please tell me. Have a good time.
 **The modpack is developing. Please get ready for facing problems, if you play it!**
 
-#### Modpack Description
+### Modpack Description
 The modpack is a magic-themed modpack. It features ***Thaumcraft*** as the centerpiece and include some fun mods such as ***Tinkers' Construct***.
 
 ## Mod list
@@ -30,6 +30,7 @@ There are **36** mods in total.
 | Naughthirium | 2.3.0 | Rongmario | https://www.curseforge.com/minecraft/mc-mods/naughthirium |
 | StellarCore | 1.5.22 | Kasumi_Nova | https://www.curseforge.com/minecraft/mc-mods/stellarcore |
 | AttributeFix | 1.0.12 | Darkhax | https://www.curseforge.com/minecraft/mc-mods/attributefix |
+| Smooth Font | 2.1.4 | bre2el | https://www.curseforge.com/minecraft/mc-mods/smooth-font |
 | Yet Another Recipe Conflict Fixer | 0.14 | SirOMGitsYOU | https://www.curseforge.com/minecraft/mc-mods/yarcf |
 
 #### Information Mod
@@ -64,6 +65,7 @@ There are **36** mods in total.
 | Thaumic Tinkerer Unofficial | 5.9.5 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer-unofficial |
 | Thaumic Isorropia - Kedition | 1.1.2 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/thaumic-isorropia-kedition |
 | New Crimson Revelations | 1.3.3 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/new-crimson-revelations |
+| ReForbidden Magic | 1.0.1 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/reforbidden-magic |
 
 #### Tinkers' Construct and Addons
 | Name | Mod Version | Main Author | Website |
