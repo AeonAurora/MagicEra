@@ -9,7 +9,7 @@ The modpack version is **0.1** now.
 The modpack is a magic-themed modpack. It features ***Thaumcraft*** as the centerpiece and include some fun mods such as ***Tinkers' Construct***.
 
 ## Mod list
-There are **36** mods in total.
+There are **42** mods in total.
 #### Library Mod
 | Name | Mod Version | Main Author | Website |
 | ------------ | ------------ | ------------ | ------------ |
@@ -44,7 +44,7 @@ There are **36** mods in total.
 | Waila Harvestability | 1.1.12 | squeek502 | https://www.curseforge.com/minecraft/mc-mods/waila-harvestability |
 | AppleSkin | 1.0.14 | squeek502 | https://www.curseforge.com/minecraft/mc-mods/appleskin |
 
-#### Modpack Tweaker Mod
+#### Modpack Tweak Mod
 | Name | Mod Version | Main Author | Website |
 | ------------ | ------------ | ------------ | ------------ |
 | CraftTweaker2 | 4.1.20.703 | Jared | https://www.curseforge.com/minecraft/mc-mods/crafttweaker |
@@ -60,12 +60,16 @@ There are **36** mods in total.
 | ------------ | ------------ | ------------ | ------------ |
 | Thaumcraft | 6.1.BETA26 | Azanor | https://www.curseforge.com/minecraft/mc-mods/thaumcraft |
 | ThaumcraftFix | 1.1.4 | TheCodex6824 | https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation |
+| Thaumcraft Research Patcher | 1.1.3 | TheCodex6824 | https://www.curseforge.com/minecraft/mc-mods/thaumcraft-research-patcher |
 | Thaumic Augmentation | 2.1.14 | TheCodex6824 | https://www.curseforge.com/minecraft/mc-mods/thaumcraftfix |
 | Thaumic Bases | 3.6.020.1 | Rumaruka | https://www.curseforge.com/minecraft/mc-mods/thaumic-bases-unofficial |
 | Thaumic Tinkerer Unofficial | 5.9.5 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/thaumic-tinkerer-unofficial |
 | Thaumic Isorropia - Kedition | 1.1.2 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/thaumic-isorropia-kedition |
 | New Crimson Revelations | 1.3.3 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/new-crimson-revelations |
 | ReForbidden Magic | 1.0.1 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/reforbidden-magic |
+| Advanced Alchemical Furnace | 1.2.0 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/advanced-smelter |
+| Thaumic Staff | 1.5.4 | keletu66666 | https://www.curseforge.com/minecraft/mc-mods/thaumic-staff |
+| Void Goggles | 0.1.0 | Walaryne | https://github.com/Walaryne/voidgoggles/tree/master |
 
 #### Tinkers' Construct and Addons
 | Name | Mod Version | Main Author | Website |
